@@ -20,3 +20,6 @@
 * PostgreSQL
 * Aiogram
 * Rust
+
+
+[cv](https://github.com/XRenso/cv/blob/main/README.md)
