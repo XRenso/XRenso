@@ -22,4 +22,4 @@
 * Rust
 
 
-[cv](notcasino.space)
+[cv](https://notcasino.space)
