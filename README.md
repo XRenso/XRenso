@@ -22,4 +22,4 @@
 * Rust
 
 
-[cv](https://xrenso.github.io/cv/)
+[cv](notcasino.space)
