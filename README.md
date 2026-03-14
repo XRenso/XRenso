@@ -7,7 +7,7 @@
 * very future
 
 ## What I do:
-* Telegram bots
+* WebApp
 * Parsers
 * Software
 * Plugins
@@ -18,8 +18,8 @@
 * MongoDB
 * SQL
 * PostgreSQL
-* Aiogram
-* Rust
+* Flask
+* FastApi
+* Django
+* Go
 
-
-[cv](https://notcasino.space)
