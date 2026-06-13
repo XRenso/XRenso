@@ -6,20 +6,4 @@
 * very smart
 * very future
 
-## What I do:
-* WebApp
-* Parsers
-* Software
-* Plugins
-
-## Stack:
-* Python
-* Docker
-* MongoDB
-* SQL
-* PostgreSQL
-* Flask
-* FastApi
-* Django
-* Go
-
+Python-developer
