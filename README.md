@@ -6,4 +6,4 @@
 * very smart
 * very future
 
-Python-developer
+Python
